@@ -4,8 +4,8 @@
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/df57d3efec57443994b960caec579364_big.jpg" group-title="热门游戏", Doin B
-http://10.0.0.33:35455/douyu/252140?stream=hls
+https://www.goodiptv.club/douyu/252140
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/08b9d0a98f7b4cf7bb6b33af54f008cd_big.jpg" group-title="热门游戏", 梦幻你波哥
-http://10.0.0.33:35455/douyu/770986
+https://www.goodiptv.club/douyu/770986
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202210/f835c353260d4d48a262ffc6c9141cc2_big.jpg" group-title="热门游戏", KazeLink
-http://10.0.0.33:35455/douyu/510541
+https://www.goodiptv.club/douyu/510541
