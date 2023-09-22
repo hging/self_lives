@@ -14,4 +14,4 @@ http://10.0.0.33:35455/douyu/486808
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="热门游戏", PDD
 http://10.0.0.33:35455/douyu/101
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/079cf5b1e4e6e1e3bb4e867e00774a47413526da.jpg" group-title="热门游戏", 小海锤石
-http://10.0.0.33:35455/bilibili/22909081(?platform=h5&line=first&quality=10000)
+http://10.0.0.33:35455/bilibili/22909081?platform=web&line=first&quality=10000
