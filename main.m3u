@@ -4,15 +4,15 @@
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/hging/self_lives/master/main.m3u
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/df57d3efec57443994b960caec579364_big.jpg" group-title="热门游戏", Doin B
-http://10.0.0.33:35455/douyu/252140
+http://10.0.0.33:35455/douyu/252140?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/08b9d0a98f7b4cf7bb6b33af54f008cd_big.jpg" group-title="热门游戏", 梦幻你波哥
-http://10.0.0.33:35455/douyu/770986
+http://10.0.0.33:35455/douyu/770986?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202210/f835c353260d4d48a262ffc6c9141cc2_big.jpg" group-title="热门游戏", KazeLink
-http://10.0.0.33:35455/douyu/510541
+http://10.0.0.33:35455/douyu/510541?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/0d14c97284c64d76b535f3d56a76af97_big.jpg" group-title="热门游戏", 一笑 ZY
-http://10.0.0.33:35455/douyu/486808
+http://10.0.0.33:35455/douyu/486808?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="热门游戏", PDD
-http://10.0.0.33:35455/douyu/101
+http://10.0.0.33:35455/douyu/101?stream=hls
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/079cf5b1e4e6e1e3bb4e867e00774a47413526da.jpg" group-title="热门游戏", 小海锤石
 http://10.0.0.33:35455/bilibili/22909081?platform=web&line=first&quality=10000
 #EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="热门游戏", 旭旭宝宝
