@@ -3,17 +3,39 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/hging/self_lives/master/main.m3u
 
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/df57d3efec57443994b960caec579364_big.jpg" group-title="热门游戏", Doin B
-http://10.0.0.33:35455/douyu/252140?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/08b9d0a98f7b4cf7bb6b33af54f008cd_big.jpg" group-title="热门游戏", 梦幻你波哥
 http://10.0.0.33:35455/douyu/770986?stream=hls
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/079cf5b1e4e6e1e3bb4e867e00774a47413526da.jpg" group-title="热门游戏", 小海锤石
+http://10.0.0.33:35455/bilibili/22909081?platform=web&line=first&quality=10000
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="热门游戏", PDD
+http://10.0.0.33:35455/douyu/101?stream=hls
+#EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="热门游戏", 旭旭宝宝
+http://10.0.0.33:35455/douyin/660292215268?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201603/3860e56bd752beda1951aae20dfdb183_big.jpg" group-title="热门游戏", 白白的胖胖呀
+http://10.0.0.33:35455/douyu/501761?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/957c897fbde443b0a3b44e796b29e83d_big.jpg" group-title="热门游戏", 银樰不是银雪
+http://10.0.0.33:35455/douyu/5012053?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/ff20bf66280f1f1cda51c51f874e053a_big.jpg" group-title="热门游戏", 我是大坤坤啊
+http://10.0.0.33:35455/douyu/5551065?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202210/f835c353260d4d48a262ffc6c9141cc2_big.jpg" group-title="热门游戏", KazeLink
 http://10.0.0.33:35455/douyu/510541?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/0d14c97284c64d76b535f3d56a76af97_big.jpg" group-title="热门游戏", 一笑 ZY
 http://10.0.0.33:35455/douyu/486808?stream=hls
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="热门游戏", PDD
-http://10.0.0.33:35455/douyu/101?stream=hls
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/079cf5b1e4e6e1e3bb4e867e00774a47413526da.jpg" group-title="热门游戏", 小海锤石
-http://10.0.0.33:35455/bilibili/22909081?platform=web&line=first&quality=10000
-#EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="热门游戏", 旭旭宝宝
-http://10.0.0.33:35455/douyin/660292215268?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/ab6b910961804f58860a9e0e2c42ce37_big.jpg" group-title="热门游戏", 黑白锐雯
+http://10.0.0.33:35455/douyu/93912?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/509d856e27af4e5885af3b0eebfe5c45_big.jpg" group-title="热门游戏", yjjimpaopao
+http://10.0.0.33:35455/douyu/687423?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/df57d3efec57443994b960caec579364_big.jpg" group-title="热门游戏", 金咕咕金咕咕doinb
+http://10.0.0.33:35455/douyu/252140?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/f69f20edb83d4049aa1b21af7657fdf6_big.jpg" group-title="热门游戏", pigff
+http://10.0.0.33:35455/douyu/24422?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/f84ce4b7e1684b1793a700ea7df86e68_big.jpg" group-title="热门游戏", 女流66
+http://10.0.0.33:35455/douyu/156277?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/12812bebce3b4d1892ef0075cd88b7b1_big.jpg" group-title="热门游戏", 小酒窝翁馨
+http://10.0.0.33:35455/douyu/664668?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202305/4ac429bca54543b5a13865d2327d8311_big.jpg" group-title="热门游戏", 英雄联盟赛事
+http://10.0.0.33:35455/douyu/288016?stream=hls
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_big.jpg" group-title="热门游戏", 超级小桀
+http://10.0.0.33:35455/douyu/74751?stream=hls
+
+
