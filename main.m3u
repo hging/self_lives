@@ -37,5 +37,7 @@ http://10.0.0.33:35455/douyu/664668?stream=hls
 http://10.0.0.33:35455/douyu/288016?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_big.jpg" group-title="热门游戏", 超级小桀
 http://10.0.0.33:35455/douyu/74751?stream=hls
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg" group-title="热门游戏", 亚运会英雄联盟
+http://10.0.0.33:35455/huya/660000?media=hls
 
 
