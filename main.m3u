@@ -39,3 +39,5 @@ http://10.0.0.33:35455/douyu/288016?stream=hls
 http://10.0.0.33:35455/douyu/74751?stream=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg" group-title="热门游戏", 亚运会英雄联盟
 http://10.0.0.33:35455/huya/660000?media=hls
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avat…9a2188a36cde4f09ae9c07c272bd.jpeg?from=3067671334" group-title="热门游戏", 艾灵妹妹
+http://10.0.0.33:35455/douyin/920522605689?stream=hls
