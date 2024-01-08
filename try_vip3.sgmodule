@@ -1,6 +1,6 @@
 [Script]
 # > 
-try_vip.js = requires-body=1,script-path=https://raw.githubusercontent.com/hging/self_lives/main/try_vip.js,type=http-response,pattern="^https:\/\/www\.nftsniper\.club\/api\/user\/checkUserNew",script-update-interval=0
+try_vip.js = requires-body=1,script-path=https://raw.githubusercontent.com/hging/self_lives/main/try_vip1.js,type=http-response,pattern="^https:\/\/www\.nftsniper\.club\/api\/user\/checkUserNew",script-update-interval=0
 
 [MITM]
 hostname = www.nftsniper.club
