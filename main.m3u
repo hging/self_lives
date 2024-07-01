@@ -11,6 +11,8 @@ http://10.0.0.33:35455/bilibili/22909081?platform=web&line=first&quality=10000
 http://10.0.0.33:35455/douyu/101?stream=hls
 #EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="热门游戏", 旭旭宝宝
 http://10.0.0.33:35455/douyin/660292215268?stream=hls
+#EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="热门游戏", 环法
+http://10.0.0.33:35455/douyin/54174422224?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201603/3860e56bd752beda1951aae20dfdb183_big.jpg" group-title="热门游戏", 白白的胖胖呀
 http://10.0.0.33:35455/douyu/501761?stream=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/957c897fbde443b0a3b44e796b29e83d_big.jpg" group-title="热门游戏", 银樰不是银雪
